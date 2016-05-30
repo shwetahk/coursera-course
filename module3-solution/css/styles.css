@@ -1,0 +1,50 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+#items-list{
+	background-color: #20b2aa;
+	color: #141414;
+	margin:1px ;
+	padding: 1px;
+	border: 1px solid black
+}
+
+#menu-items{
+	padding: 0;
+}
+
+.navbar{
+	background-color: #c4c4c4;
+}
+
+#tall-section{
+	height: 1000px;
+}
+
+#box1 {
+	background-color: gray;
+	margin: 5px;
+	padding: 25px;
+	border: 1px solid black;
+}
+
+#box2{
+	background-color: gray;
+	margin: 5px;
+	padding: 25px;
+	border: 1px solid black;
+}
+
+#box3{
+	background-color: gray;
+	margin: 5px;
+	padding: 25px;
+	border: 1px solid black;
+}
+
+#item1, #item2, #item3{
+	border: 0.5px solid black;
+}
